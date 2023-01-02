@@ -1,0 +1,6 @@
+{
+  "key": "(must) rename this file to secret.json and (must) put your secret key here",
+  "backupkey": "(optional) you can leave this blank",
+  "region": "(must) put the region here",
+  "endpoint": "(optional) endpoint can be left blank"
+}
